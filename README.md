@@ -21,6 +21,21 @@ Estou montando portfólios para poder alavancar na área da programação, pois,
 - Gama Academy - 2019
 - Rockseat - 2020
 
+### Trabalhos desenvolvidos:
+
+### Primeira Igreja Batista em Tijucal - WordPress como CMS
+http://pibtijucal.com.br/
+
+### M & L Forever Living - WordPress como CMS
+http://mlforeverliving.com/
+
+### SaSilva Agência Digital - Estático
+http://sasilvaagenciadigital.com.br/
+
+### DUELZ
+- Este, infelizmente ainda não tem link, pois, o jogo ainda está em desenvolvimento pela detentora dos direitos do mesmo.
+Mas, pode ser consultado no meu diretório do GitHub.
+
 <!--
 **FelipeCarlota/FelipeCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
