@@ -1,4 +1,6 @@
-### Sou Felipe Carlota, nasci em 1995 (meio que não adianta colocar a idade, vai que você tá lendo em 2035, né.. hehehe).
+### Apresentação.
+
+Sou Felipe Carlota, nasci em 1995 (meio que não adianta colocar a idade, vai que você tá lendo em 2035, né.. hehehe).
 
 Nascido em SP, capital, sou membro em uma comunidade familiar composta por 5 integrantes (fala difícil <.<), meu pai, minha mãe, duas irmãs e eu.
 
@@ -33,8 +35,9 @@ http://mlforeverliving.com/
 http://sasilvaagenciadigital.com.br/
 
 ### DUELZ
-- Este, infelizmente ainda não tem link, pois, o jogo ainda está em desenvolvimento pela detentora dos direitos do mesmo.
-Mas, pode ser consultado no meu diretório do GitHub.
+Este, infelizmente ainda não tem link, pois, o jogo ainda está em desenvolvimento pela detentora dos direitos do mesmo.
+Mas, pode ser consultado no meu diretório do GitHub:
+https://github.com/FelipeCarlota/duelz-game
 
 <!--
 **FelipeCarlota/FelipeCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
