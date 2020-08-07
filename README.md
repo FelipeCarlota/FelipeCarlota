@@ -6,8 +6,6 @@ Sou apaixonado por resolver problemas ou desenvolver projetos utilizando a progr
 <br/>Sou um futuro FullStack Developer. :computer:
 <br/>Estou montando portfólios para poder alavancar na área da programação, pois, se você não é experiente, infelizmente o mercado não abre muitas portas pra você, ainda que você seja esforçado e tenha ânsia de aprender novas tecnologias e ferramentas, o mercado é um tanto que imediatista quanto às suas necessidades. E eu acredito que um portfólio bem feito, possa abrir algumas oportunidades.
 
-É isso, esse sou eu em desenvolvimento. Growth Hacker!
-
 ### Trajetória Growth Hacker - Prgoramas Dev.
 
 - Gama Academy - 2019
