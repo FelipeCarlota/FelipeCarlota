@@ -32,7 +32,6 @@ https://github.com/FelipeCarlota/duelz-game
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Nuvem Tecnologia
 - 🌱 I’m currently learning English, PHP and React
 - 👯 I’m looking to collaborate on Front-end Development
 - 🤔 I’m looking for help with inclusion in the work area
