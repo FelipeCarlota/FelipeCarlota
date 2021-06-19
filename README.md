@@ -10,9 +10,8 @@ Gosto também criar aplicações para treinar e evoluir.
 -->
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning English, PHP and React
-- 👯 I’m looking to collaborate on Front-end Development
+- 🌱 I’m currently learning English, C#, PHP and React
+- 👯 I’m looking to collaborate on Development Full-Stack
 - 🤔 I’m looking for help with inclusion in the work area
 - 📫 How to reach me: felipe.carlota@gmail.com or (65) 98148-6572
 - 😄 Pronouns: He
-
