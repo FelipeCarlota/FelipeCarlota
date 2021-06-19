@@ -2,31 +2,9 @@
 
 ## Olá, pessoal! :wave:
 
-Sou apaixonado por resolver problemas ou desenvolver projetos utilizando a programação.
-<br/>Sou um futuro FullStack Developer. :computer:
-<br/>Estou montando portfólios para poder alavancar na área da programação, pois, se você não é experiente, infelizmente o mercado não abre muitas portas pra você, ainda que você seja esforçado e tenha ânsia de aprender novas tecnologias e ferramentas, o mercado é um tanto que imediatista quanto às suas necessidades. E eu acredito que um portfólio bem feito, possa abrir algumas oportunidades.
+Sou musiscista, meu instrumento preferido é o contrabaixo. Nas horas vagas, eu gosto de dar umas groovadas. Quando não estou tocando, estou me empenhando em aprender e praticar as linguagens de programação que conheço ou aprendendo algo novo.
 
-### Trajetória Growth Hacker - Prgoramas Dev.
-
-- Gama Academy - 2019
-- Rockseat - 2020
-
-### Trabalhos desenvolvidos:
-
-### Primeira Igreja Batista em Tijucal - WordPress como CMS
-http://pibtijucal.com.br/
-
-### M & L Forever Living - WordPress como CMS
-http://mlforeverliving.com/
-
-### SaSilva Agência Digital - Estático
-http://sasilvaagenciadigital.com.br/
-
-### DUELZ
-Este, infelizmente ainda não tem link, pois, o jogo ainda está em desenvolvimento pela detentora dos direitos do mesmo.
-Mas, pode ser consultado no meu diretório do GitHub:
-https://github.com/FelipeCarlota/duelz-game
-
+Gosto também criar aplicações para treinar e evoluir.
 <!--
 **FelipeCarlota/FelipeCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
