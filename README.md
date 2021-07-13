@@ -2,7 +2,7 @@
 
 ## Olá, pessoal! :wave:
 
-Sou musicista, meu instrumento preferido é o contrabaixo. Nas horas vagas, eu gosto de dar umas groovadas. Quando não estou tocando, estou me empenhando em aprender e praticar as linguagens de programação que conheço ou aprendendo algo novo.
+Sou musicista, meu instrumento preferido é o contrabaixo. Nas horas vagas, eu gosto de dar umas "groovadas". Quando não estou tocando, estou me empenhando em aprender e praticar as linguagens de programação que conheço ou aprendendo algo novo.
 
 Gosto também criar aplicações para treinar e evoluir.
 <!--
