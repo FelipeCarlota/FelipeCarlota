@@ -2,9 +2,11 @@
 
 ## Olá, pessoal! :wave:
 
-Sou musicista, meu instrumento preferido é o contrabaixo. Nas horas vagas, eu gosto de dar umas "groovadas". Quando não estou tocando, estou me empenhando em aprender e praticar as linguagens de programação que conheço ou aprendendo algo novo.
+Um desenvolvedor em um constante aprendizado, curioso e sempre buscando aprender novas tecnologias, treinando algoritmos, ou procurando aprender com os códigos de outras pessoas desenvolvedoras.
 
-Gosto também criar aplicações para treinar e evoluir.
+Além disso, sou musicista, meu instrumento preferido é o contrabaixo e acredito que a música, é um exemplo prático de que, pra você aprender efetivamente algo, deve treinar, tanto a musculatura quanto a mente.
+
+Sempre que eu toco uma mesma música mais de uma vez, percebo que aprendo coisas diferentes das que eu tinha aprendido antes, e da mesma forma, isso acontece com qualquer coisa que estamos dispostos a aprender, inclusive programar.
 <!--
 **FelipeCarlota/FelipeCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
