@@ -2,7 +2,7 @@
 
 ## Olá, pessoal! :wave:
 
-Um desenvolvedor em um constante aprendizado, curioso e sempre buscando aprender novas tecnologias, treinando algoritmos, ou procurando aprender com os códigos de outras pessoas desenvolvedoras.
+Um desenvolvedor em um constante aprendizado, curioso e sempre buscando aprender novas tecnologias, testando algoritmos, ou procurando aprender com os códigos de outras pessoas desenvolvedoras.
 
 Além disso, sou musicista, meu instrumento preferido é o contrabaixo e acredito que a música, é um exemplo prático de que, pra você aprender efetivamente algo, deve treinar, tanto a musculatura quanto a mente.
 
