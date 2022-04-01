@@ -12,7 +12,7 @@ Sempre que eu toco uma mesma música mais de uma vez, percebo que aprendo coisas
 -->
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning English, C#, PHP and React
+- 🌱 I’m currently learning English, NodeJS and React
 - 👯 I’m looking to collaborate on Development Full-Stack
 - 🤔 I’m looking for help with inclusion in the work area
 - 📫 How to reach me: felipe.carlota@gmail.com or (65) 98148-6572
