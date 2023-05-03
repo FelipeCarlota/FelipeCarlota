@@ -6,7 +6,7 @@ Um desenvolvedor em um constante aprendizado, curioso e sempre buscando aprender
 
 Além disso, sou musicista, meu instrumento preferido é o contrabaixo e acredito que a música, é um exemplo prático de que, pra você aprender efetivamente algo, deve treinar, tanto a musculatura quanto a mente.
 
-Sempre que eu toco uma mesma música mais de uma vez, percebo que aprendo coisas diferentes das que eu tinha aprendido antes, e da mesma forma, isso acontece com qualquer coisa que estamos dispostos a aprender, inclusive programar.
+Estou sempre que revisito a mesma música mais de uma vez, percebo que aprendo coisas diferentes das que eu tinha aprendido antes, e da mesma forma, isso acontece com qualquer coisa que estamos dispostos a aprender, inclusive programar.
 <!--
 **FelipeCarlota/FelipeCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
