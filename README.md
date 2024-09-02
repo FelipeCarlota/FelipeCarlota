@@ -1,12 +1,12 @@
 # Felipe Carlota
 
-## Olá, pessoal! :wave:
+## Hi, there! :wave:
 
-Um desenvolvedor em um constante aprendizado, curioso e sempre buscando aprender novas tecnologias, testando algoritmos, ou procurando aprender com os códigos de outras pessoas desenvolvedoras.
+A developer in constant learning, curious and always seeking to learn new technologies, testing algorithms, or learning from other developers' code.
 
-Além disso, sou musicista, meu instrumento preferido é o contrabaixo e acredito que a música, é um exemplo prático de que, pra você aprender efetivamente algo, deve treinar, tanto a musculatura quanto a mente.
+Additionally, I am a musician, and my favorite instrument is the bass guitar. I believe that music is a practical example that to effectively learn something, you must train both your muscles and your mind.
 
-Sempre que revisito a mesma música mais de uma vez, percebo que aprendo coisas diferentes das que eu tinha aprendido antes, e da mesma forma, isso acontece com qualquer coisa que estamos dispostos a aprender, inclusive programar.
+Whenever I revisit the same piece of music more than once, I notice that I learn different things than I did before, and in the same way, this happens with anything we are willing to learn, including programming.
 <!--
 **FelipeCarlota/FelipeCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
